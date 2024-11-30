@@ -38,5 +38,3 @@ Make sure you have a modern web browser to run the application. No backend or ad
 2. **Navigate to the project directory:**
    ```bash
    cd todo-list-app
-
-
