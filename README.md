@@ -1,10 +1,42 @@
-# To-Do-List
+# To-Do List App
 
-This To-Do List App is a simple and intuitive task management application that allows users to efficiently organize their daily activities. Users can add tasks, delete tasks, and mark tasks as complete. Each task is timestamped with the date and time when it was added and completed, providing a clear record of your productivity.
+A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. This app allows users to add tasks, mark them as done, delete individual tasks, and clear all tasks. It is designed to be mobile-friendly and works seamlessly across all screen sizes.
 
-Screenshots of the app are :
+## Features
 
-![Screenshot (178)](https://github.com/user-attachments/assets/c973ea63-153d-4c55-a215-8dbc41909cf8)
+- **Add tasks**: Users can add tasks to the list.
+- **Mark tasks as done**: Users can mark tasks as completed.
+- **Delete individual tasks**: Users can remove a specific task from the list.
+- **Clear all tasks**: Users can delete all tasks at once.
+- **Responsive design**: The app is fully responsive and works well on mobile and desktop devices.
+
+## Preview of the project :
+
+https://github.com/user-attachments/assets/90639745-96e5-42ed-b9bb-b11ea5123b8c
 
 
-![Screenshot (179)](https://github.com/user-attachments/assets/9c45a611-a19e-49e6-a6b6-b041ebe42bfc)
+
+
+## Tech Stack
+
+- **HTML**: Structure of the app.
+- **CSS**: Styling and responsive design.
+- **JavaScript**: App functionality, including adding tasks, marking tasks as done, and deleting tasks.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have a modern web browser to run the application. No backend or additional dependencies are required for this app, as it is built with plain HTML, CSS, and JavaScript.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd todo-list-app
+
+
